@@ -1,0 +1,22 @@
+DateTime                     4.8
+keras                        3.0.5
+numpy                        1.23.5
+oauthlib                     3.2.2
+pandas                       1.5.2
+pandas-datareader            0.10.0
+pip                          24.0
+python-dateutil              2.8.2
+python-dotenv                1.0.1
+scikit-learn                 1.2.0
+scipy                        1.9.3
+sklearn                      0.0.post1
+tensorboard                  2.15.2
+tensorboard-data-server      0.7.2
+tensorboard-plugin-wit       1.8.1
+tensorflow                   2.15.0
+tensorflow-estimator         2.15.0
+tensorflow-intel             2.15.0
+tensorflow-io-gcs-filesystem 0.28.0
+tweepy                       4.12.1
+yfinance                     0.2.3
+
